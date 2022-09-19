@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+Welcome to LEO-S9 documentation!
 ===================================
 
 **LEO-S9** is a Python library.
